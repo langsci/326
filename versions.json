@@ -2,6 +2,11 @@
 		"title": "A Ruruuli-Lunyala–English dictionary and grammar sketch",
 		"authors": [{"name": "Saudah Namyalo"},{"name":" Alena Witzlack-Makarevich"},{"name":" Anatole Kiriggwajjo"},{"name":" Amos Atuhairwe"},{"name":" Zarina Molochieva"},{"name":" Ruth Mukama"},{"name":" Margaret Zellers"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2021-08-18T14:18:11.000Z"}
+	"publishedAt": "2021-08-18T14:18:11.000Z"},
+	{"versiontype": "first_edition",
+		"title": "A Ruruuli-Lunyala–English dictionary and grammar sketch",
+		"authors": [{"name": "Saudah Namyalo"},{"name":" Alena Witzlack-Makarevich"},{"name":" Anatole Kiriggwajjo"},{"name":" Amos Atuhairwe"},{"name":" Zarina Molochieva"},{"name":" Ruth Mukama"},{"name":" Margaret Zellers"}],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2021-11-05T14:18:11.000Z"}
 	]
 }
